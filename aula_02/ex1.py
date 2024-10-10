@@ -1,0 +1,1 @@
+print(f"Bem-vindo ao Python, {input('Digite seu primeiro nome: ')}")
