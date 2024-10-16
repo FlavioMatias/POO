@@ -1,0 +1,6 @@
+arvore rubonegro
+
+abertura linear
+
+dict
+
