@@ -1,6 +1,6 @@
 # Programação Orientada a Objeto
 
-**Repositório dedicado à disciplina de Algoritmos**  
+**Repositório dedicado à disciplina de poo**  
 **Curso:** TADS - IFRN | **Ano:** 2024 
 
 ## 📋 Descrição  
