@@ -5,13 +5,13 @@ public class main {
     {
         Scanner banana = new Scanner(System.in);
 
-        int a = banana.nextInt();
+        double a = banana.nextDouble();
 
         int b = banana.nextInt();
 
         // int soma = a + b;
 
-        System.out.println("soma:" + a + b);        
+        System.out.println("soma:" + (a + b));        
         
         banana.close();
 
