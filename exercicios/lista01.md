@@ -16,7 +16,7 @@ A classe deve ter atributos para armazenar o nome do titular da conta, o número
 para realizar as operações de depósito e saque.
 Escrever um programa para testar a classe.
 
-## 5. Uma Entrada de Cinema
+## 4. Uma Entrada de Cinema
 A classe deve ter atributos para armazenar o dia e o horário de uma sessão de cinema e métodos para calcular o
 valor da entrada inteira e da meia-entrada.
 O valor das entradas deve ser calculado com base nas seguintes regras:
